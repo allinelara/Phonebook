@@ -11,3 +11,5 @@ In this project the following technologies and concepts were used:
 - JSP
 - CSS
 - CRUD
+- Eclipse
+- Tomcat
